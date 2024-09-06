@@ -1,6 +1,10 @@
- ![0_yBvA5CnEX3Sd4aod](https://github.com/user-attachments/assets/e4550a83-1ace-4d36-ad8a-3d3278082b06)
+<h1 align="center">
+Hi👋, I'm Madhu Sravanthi <br>
 
-# 💫 About Me:
+</h1>
+<h2 align="center">Dedicated to innovation, driven by code.🌟💻</h2>
+
+
 - 💻 I'm a passionate web developer skilled in **HTML, CSS, JavaScript, and SQL**, with a strong interest in **creating dynamic, secure web applications** and exploring **full-stack development**.  <br>
 - 🔭 I’m currently working on an **AI content generator SaaS project**, leveraging cutting-edge technologies to build smart, intuitive content solutions.  
 - 🌱 I’m currently learning **React** to enhance my front-end development skills and create more dynamic user interfaces.  
