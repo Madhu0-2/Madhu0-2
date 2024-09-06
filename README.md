@@ -6,10 +6,7 @@
 - 🌱 I’m currently learning **React** to enhance my front-end development skills and create more dynamic user interfaces.  
 - 🤝 I’m looking to collaborate on **full-stack web development** projects, especially those requiring **database management** and **CRUD operations**.  
 - 🤔 I’m looking for help with **improving UI/UX design principles** and integrating **advanced JavaScript features**.  
-- 💬 Ask me about **building secure web applications, centralized databases, and standard CRUD functionalities**.  
 - 📫 How to reach me: *madhu.sravanthi2004@gmail.com*  
-- 😄 Pronouns: *She/Her*  
-- ⚡ Fun fact: I enjoy turning everyday challenges into efficient **web solutions** and love experimenting with **new front-end frameworks**!
 
 
 ## 🌐 Socials:
