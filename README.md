@@ -25,7 +25,7 @@ Hi👋, I'm Madhu Sravanthi <br>
 
 # 📊 GitHub Stats:
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhu0-2&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" />           <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhu0-2&theme=transparent&hide_border=false">
+  <img src="https://github-readme-stats.vercel.app/api?username=Madhu0-2&theme=transparent&hide_border=false&include_all_commits=false&count_private=false" /> <br> <br> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Madhu0-2&theme=transparent&hide_border=false">
 </p>
 
 <br>
