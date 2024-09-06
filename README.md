@@ -1,8 +1,15 @@
  ![0_yBvA5CnEX3Sd4aod](https://github.com/user-attachments/assets/e4550a83-1ace-4d36-ad8a-3d3278082b06)
 
 # 💫 About Me:
-# 💫 About Me:<br><br>- 💻 I'm a passionate web developer skilled in **HTML, CSS, JavaScript, and SQL**, with a strong interest in **creating dynamic, secure web applications** and exploring **full-stack development**.<br><br>- 🔭 I’m currently working on an **AI content generator SaaS project**, leveraging cutting-edge technologies to build smart, intuitive content solutions.<br><br>- 🌱 I’m currently learning **React** to enhance my front-end development skills and create more dynamic user interfaces.<br><br>- 🙌🏻 I’m looking to collaborate on **full-stack web development** projects, especially those requiring **database management** and **CRUD operations**.<br><br>- 🤔 I’m looking for help with **improving UI/UX** design principles and integrating **advanced JavaScript features**.<br><br>- 💬 Ask me about **building secure web applications**, **centralized databases**, and **standard CRUD functionalities**.<br><br>- 📫 How to reach me: **madhu.sravanthi2004@gmail.com**<br><br>- 😄 Pronouns: **She/Her**<br><br>- ⚡ Fun fact: I enjoy turning everyday challenges into efficient **web solutions** and love experimenting with **new front-end frameworks**!<br>
-
+- 💻 I'm a passionate web developer skilled in **HTML, CSS, JavaScript, and SQL**, with a strong interest in **creating dynamic, secure web applications** and exploring **full-stack development**.  <br>
+- 🔭 I’m currently working on an **AI content generator SaaS project**, leveraging cutting-edge technologies to build smart, intuitive content solutions.  
+- 🌱 I’m currently learning **React** to enhance my front-end development skills and create more dynamic user interfaces.  
+- 🤝 I’m looking to collaborate on **full-stack web development** projects, especially those requiring **database management** and **CRUD operations**.  
+- 🤔 I’m looking for help with **improving UI/UX design principles** and integrating **advanced JavaScript features**.  
+- 💬 Ask me about **building secure web applications, centralized databases, and standard CRUD functionalities**.  
+- 📫 How to reach me: *madhu.sravanthi2004@gmail.com*  
+- 😄 Pronouns: *She/Her*  
+- ⚡ Fun fact: I enjoy turning everyday challenges into efficient **web solutions** and love experimenting with **new front-end frameworks**!
 
 
 ## 🌐 Socials:
