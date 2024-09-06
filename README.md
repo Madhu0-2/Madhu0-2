@@ -3,8 +3,9 @@ Hi👋, I'm Madhu Sravanthi <br>
 
 </h1>
 <h2 align="center">Dedicated to innovation, driven by code.🌟💻</h2>
-
-
+<p align="center">
+<img src="221352975-94759904-aa4c-4032-a8ab-b546efb9c478.gif" alt="animated" />
+</p>
 - 💻 I'm a passionate web developer skilled in **HTML, CSS, JavaScript, and SQL**, with a strong interest in **creating dynamic, secure web applications** and exploring **full-stack development**.  <br>
 - 🔭 I’m currently working on an **AI content generator SaaS project**, leveraging cutting-edge technologies to build smart, intuitive content solutions.  
 - 🌱 I’m currently learning **React** to enhance my front-end development skills and create more dynamic user interfaces.  
